@@ -1,4 +1,4 @@
-# Multi-omics model training script (example)
+# Multi-omics model training script (example).
 # This is an example training script. For heavy training, use Colab or a GPU machine.
 import os
 import pandas as pd

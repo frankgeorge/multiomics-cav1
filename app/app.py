@@ -5,7 +5,7 @@ import numpy as np
 
 app = Flask(__name__, template_folder='templates')
 
-# Try to load a PyTorch model if present
+# Try to load a PyTorch model if present.
 model_path = os.path.join('model', 'models', 'cav1_model.pth')
 MODEL = None
 try:
