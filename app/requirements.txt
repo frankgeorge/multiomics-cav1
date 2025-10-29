@@ -1,0 +1,7 @@
+flask
+torch
+numpy
+pandas
+plotly
+shap
+gunicorn
